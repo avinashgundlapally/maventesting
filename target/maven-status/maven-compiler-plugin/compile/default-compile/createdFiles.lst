@@ -1,0 +1,6 @@
+com\example\maventesting\ProductController.class
+com\example\maventesting\ProductService.class
+com\example\maventesting\MaventestingApplication.class
+com\example\maventesting\helloworld.class
+com\example\maventesting\IProductService.class
+com\example\maventesting\Product.class
